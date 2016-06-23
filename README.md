@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi, everyone. Today is the first day I use github.
+
+Nice to see u.
+
+**kowalski**
