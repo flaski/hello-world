@@ -1,6 +1,6 @@
 # hello-world
 
-Hi, everyone. Today is the first day I use github.
+Hi, everyone. Today is my first day to use github.
 
 Nice to see u.
 
